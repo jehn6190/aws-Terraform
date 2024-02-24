@@ -14,7 +14,7 @@ resource "aws_vpc" "main" {
   cidr_block = "10.0.0.0/16"
 
   tags = {
-    Name = "CloudAcademy"
+    Name = "Resume"
     Demo = "Terraform"
   }
 }
@@ -116,6 +116,7 @@ resource "aws_instance" "web" {
   associate_public_ip_address = true
 
   #userdata
+  #remember to change this to resume website
   user_data = <<EOF
 #!/bin/bash
 apt-get -y update
@@ -134,6 +135,6 @@ echo fin v1.00!
 EOF
 
   tags = {
-    Name = "CloudAcademy"
+    Name = "Resume"
   }
 }
