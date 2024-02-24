@@ -3,7 +3,9 @@ Create a simple AWS VPC spanning 2 AZs. Public subnets will be created, together
 
 https://github.com/cloudacademy/terraform-aws/tree/main/exercises/exercise1
 
-![AWS Architecture](/doc/AWS-VPC-Nginx.png)
+![Untitled](https://github.com/jehn6190/aws-Terraform/assets/29306321/2240ab6e-3ddb-4677-abb3-99f64ce12981)
+
+
 
 #### Project Structure
 
