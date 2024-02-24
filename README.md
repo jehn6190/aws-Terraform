@@ -3,7 +3,8 @@ Create a simple AWS VPC spanning 2 AZs. Public subnets will be created, together
 
 
 
-![Untitled](https://github.com/jehn6190/aws-Terraform/assets/29306321/2240ab6e-3ddb-4677-abb3-99f64ce12981)
+![terraform-aws-nginx](https://github.com/jehn6190/aws-Terraform/assets/29306321/191df60c-a846-4739-b4e4-9265d364aada)
+
 
 
 
