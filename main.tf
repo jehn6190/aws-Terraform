@@ -124,7 +124,7 @@ apt-get -y install nginx
 
 cd /var/www/html
 rm *.html
-git clone https://github.com/cloudacademy/webgl-globe/ .
+git clone .
 cp -a src/* .
 rm -rf {.git,*.md,src,conf.d,docs,Dockerfile,index.nginx-debian.html}
 
