@@ -132,9 +132,9 @@ rm -rf {.git,*.md,src,conf.d,docs,Dockerfile,index.nginx-debian.html}
 systemctl restart nginx
 systemctl status nginx
 
-echo fin v1.00!
-EOF
-  tags = {
-    Name = "CloudAcademy"
-  }
-}
+# echo fin v1.00!
+# EOF
+#   tags = {
+#     Name = "CloudAcademy"
+#   }
+# }
