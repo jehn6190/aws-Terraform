@@ -134,7 +134,7 @@ systemctl status nginx
 
 # echo fin v1.00!
 EOF
-  tags = {
-    Name = "CloudAcademy"
-  }
-}
+#   tags = {
+#     Name = "CloudAcademy"
+#   }
+# }
